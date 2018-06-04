@@ -1,0 +1,13 @@
+.container {
+    height: 100%;
+    width: 100%;
+}
+
+.mat-drawer {
+    padding: 0px;
+    min-width: 200px;
+}
+
+.sidenav-content{
+    padding:20px;
+}
